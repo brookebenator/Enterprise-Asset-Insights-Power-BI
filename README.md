@@ -36,7 +36,7 @@ This PowerBI dashboard is a fully-functional, mock version of a real dashboard w
 a. **Data Point**: How can we forecast an accurate budget to align with asset increases?  
 i. **Insight**: Asset amounts and values typically increase sharply every 5 years. This provides a key insight into how a budget can be created to forecast 		increasing expenditures. 
 
-b. **Data Point**: How does asset count and value compare to each other over time?
+b. **Data Point**: How does asset count and value compare to each other over time?  
 i. **Insight**: The dashboard shows how asset amount and value are changing by year. If the total asset count is higher than the total value, we can expect to manage assets with a low dollar value, which are generally less risky. When filtering by Instance-C, we see an important pattern that value is actually generally higher than its asset count which is the opposite pattern found in Instances A and B.  
 
 c. **Data Point**: Where are our assets physically located?  
@@ -44,7 +44,7 @@ i. **Insight**: Determining asset location aids in hiring extra personnel and fi
 
 2. **Asset Details**:
    
-a. **Data Point**: Is the selected asset overdue on calibration?
+a. **Data Point**: Is the selected asset overdue on calibration?  
 i. **Insight**: Monitoring if an asset is overdue on calibration, in conjunction with its average risk score can help reduce risk and adverse effects such as damages or losses.
 
 b. **Data Point**: How can we effectively reduce costs when buying new assets?  
