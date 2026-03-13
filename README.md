@@ -17,7 +17,7 @@ This PowerBI dashboard is a fully-functional, mock version of a real dashboard w
 
 **Data Cleansing**  
 -Excel was used primarily for data exploration, pattern identification, and understanding key issues to be resolved  
--Next, using both AI and domain knowledge, Alteryx was utilized to integrate the three different data sets from each software environment together. Alteryx was also used to fix incorrect records, change null values, etc
+-Using both AI and domain knowledge, Alteryx was utilized to integrate the three different data sets from each software environment together. Alteryx was also used to fix incorrect records, change null values, etc
 
 ---
 
