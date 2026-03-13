@@ -22,9 +22,11 @@ This PowerBI dashboard is a fully-functional, mock version of a real dashboard w
 ---
 
 **Dashboard Overview**  
-	1. Summary Page: The summary page gives quick, high-level information about all of the enterprise's assets. The visuals show broad information such as total assets and total monetary value, where they are located, and what are the different types.  
-	2. Asset Detail: End users can filter by specific part numbers to see their attributes and specific information and history. KPIs show specific information about the part and provides insights to make informed business decisions.  
-	3. Risk Review: Housing enterprise assets comes with carrying risk. This page highlights information about asset risk and offers insights about how to protect our assets.
+1. Summary Page: The summary page gives quick, high-level information about all of the enterprise's assets. The visuals show broad information such as total assets and total monetary value, where they are located, and what are the different types.
+	
+2. Asset Detail: End users can filter by specific part numbers to see their attributes and specific information and history. KPIs show specific information about the part and provides insights to make informed business decisions.
+	
+3. Risk Review: Housing enterprise assets comes with carrying risk. This page highlights information about asset risk and offers insights about how to protect our assets.
 	
 ---
 	
