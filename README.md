@@ -31,7 +31,7 @@ This PowerBI dashboard is a fully-functional, mock version of a real dashboard w
 ---
 	
 **Business Insights & Real-Life Application**  
-	1. Summary Page:  
+1. Summary Page:  
 	
 a. Data Point: How can we forecast an accurate budget to align with asset increases?  
 i. Insight: Asset amounts and values typically increase sharply every 5 years. This provides a key insight into how a budget can be created to forecast 		increasing expenditures. 
@@ -40,7 +40,7 @@ b. Data Point: How does asset count and value compare to each other over time?
 i. Insight: The dashboard shows how asset amount and value are changing by year. If the total asset count is higher than the total value, we can expect to manage assets with a low dollar value, which are generally less risky. When filtering by Instance-C, we see an important pattern that value is actually generally higher than its asset count which is the opposite pattern found in Instances A and B.  
 
 c. Data Point: Where are our assets physically located?  
-i. Insight: Determining asset location aids in hiring extra personnel and finding trends within location. Since most assets are clustered around the Atlanta area, it is important to make sure there are enough asset managers and employees.  
+i. Insight: Determining asset location aids in hiring extra personnel and finding trends within location. Since most assets are clustered around the Atlanta area, it is important to make sure there are enough asset managers and employees.
 
 2. Asset Details:
    
@@ -51,7 +51,7 @@ b. Data Point: How can we effectively reduce costs when buying new assets?
 i. Insight: To determine cost saving efforts, an end user can identify on average, which manufacturer sells the part for the lowest price. This aids in effective buying practices by also facilitating negotiation with loyal manufacturers.  
 
 c. Data Point: How can we be proactive when it comes to purchasing parts?  
-i. Insight: This visual is great for a quick glance of the parts cost history. For example, if a parts price has only increased over the past few years, it might be worth checking out if this part can be replaced by a cheaper alternative. 
+i. Insight: This visual is great for a quick glance of the parts cost history. For example, if a parts price has only increased over the past few years, it might be worth checking out if this part can be replaced by a cheaper alternative.
 
 3. Risk Review:
    
