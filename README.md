@@ -1,26 +1,26 @@
 # Enterprise-Asset-Insights-Power-BI
 
-Overview
+**Overview**  
 Note: Please note that the data presented in this report has been AI-generated and simulated for demonstration purposes only and does not represent real company data
 
 This PowerBI dashboard is a fully-functional, mock version of a real dashboard with similar elements I created for the Government Compliance team, where I manage a database of enterprise government-owned assets that merges together 3 different software environments. These visualizations provide insights into necessary information such as best historical data, asset usage, and asset trends.
 
-Tools Used
+**Tools Used**
 -Sunflower - Asset management software  
 -Microsoft Excel  
 -Alteryx  
 -PowerBI  
 
-Data Cleansing
+**Data Cleansing**
 -Excel was used primarily for data exploration, pattern identification, and understanding key issues to be resolved  
 -Next, using both AI and domain knowledge, Alteryx was utilized to integrate the three different data sets from each software environment together. Alteryx was also used to fix incorrect records, change null values, etc
 
-Dashboard Overview
+**Dashboard Overview**
 	1. Summary Page: The summary page gives quick, high-level information about all of the enterprise's assets. The visuals show broad information such as total assets and total monetary value, where they are located, and what are the different types.  
 	2. Asset Detail: End users can filter by specific part numbers to see their attributes and specific information and history. KPIs show specific information about the part and provides insights to make informed business decisions.  
 	3. Risk Review: Housing enterprise assets comes with carrying risk. This page highlights information about asset risk and offers insights about how to protect our assets.  
 
-Business Insights & Real-Life Application  
+**Business Insights & Real-Life Application**  
 	1. Summary Page:  
 		a. Data Point: How can we forecast an accurate budget to align with asset increases?  
 			i. Insight: Asset amounts and values typically increase sharply every 5 years. This provides a key insight into how a budget can be created to forecast 		increasing expenditures.   
