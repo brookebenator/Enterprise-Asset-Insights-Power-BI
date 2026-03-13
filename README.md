@@ -8,7 +8,7 @@ This PowerBI dashboard is a fully-functional, mock version of a real dashboard w
 ---
 
 **Tools Used**  
--Sunflower - Asset management software  
+-Sunflower: Asset management software  
 -Microsoft Excel  
 -Alteryx  
 -PowerBI  
