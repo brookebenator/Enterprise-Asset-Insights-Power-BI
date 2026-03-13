@@ -5,17 +5,17 @@ Note: Please note that the data presented in this report has been AI-generated a
 
 This PowerBI dashboard is a fully-functional, mock version of a real dashboard with similar elements I created for the Government Compliance team, where I manage a database of enterprise government-owned assets that merges together 3 different software environments. These visualizations provide insights into necessary information such as best historical data, asset usage, and asset trends.
 
-**Tools Used**
+**Tools Used**  
 -Sunflower - Asset management software  
 -Microsoft Excel  
 -Alteryx  
 -PowerBI  
 
-**Data Cleansing**
+**Data Cleansing**  
 -Excel was used primarily for data exploration, pattern identification, and understanding key issues to be resolved  
 -Next, using both AI and domain knowledge, Alteryx was utilized to integrate the three different data sets from each software environment together. Alteryx was also used to fix incorrect records, change null values, etc
 
-**Dashboard Overview**
+**Dashboard Overview**  
 	1. Summary Page: The summary page gives quick, high-level information about all of the enterprise's assets. The visuals show broad information such as total assets and total monetary value, where they are located, and what are the different types.  
 	2. Asset Detail: End users can filter by specific part numbers to see their attributes and specific information and history. KPIs show specific information about the part and provides insights to make informed business decisions.  
 	3. Risk Review: Housing enterprise assets comes with carrying risk. This page highlights information about asset risk and offers insights about how to protect our assets.  
@@ -24,7 +24,7 @@ This PowerBI dashboard is a fully-functional, mock version of a real dashboard w
 	1. Summary Page:  
 		a. Data Point: How can we forecast an accurate budget to align with asset increases?  
 			i. Insight: Asset amounts and values typically increase sharply every 5 years. This provides a key insight into how a budget can be created to forecast 		increasing expenditures.   
-		b. Data Point: How does asset count and value compare to each other over time?  
+		b. Data Point: How does asset count and value compare to each other over time?
 			i. Insight: The dashboard shows how asset amount and value are changing by year. If the total asset count is higher than the total value, we can expect to manage assets with a low dollar value, which are generally less risky. When filtering by Instance-C, we see an important pattern that value is actually generally higher than its asset count which is the opposite pattern found in Instances A and B.  
 		c. Data Point: Where are our assets physically located?  
 			i. Insight: Determining asset location aids in hiring extra personnel and finding trends within location. Since most assets are clustered around the Atlanta area, it is important to make sure there are enough asset managers and employees.  
