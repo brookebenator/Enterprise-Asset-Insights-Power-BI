@@ -55,7 +55,8 @@ i. Insight: This visual is great for a quick glance of the parts cost history. F
 
 3. Risk Review:
    
-a. Data Point: What is the risk distribution of our assets including the total asset count and value?  i. Insight: Most of the enterprise assets are low risk, although a high amount are considered a medium risk, and most monetary value is tied up in medium risk assets. This gives an overview of effective management of medium and high risk assets.
+a. Data Point: What is the risk distribution of our assets including the total asset count and value?  
+i. Insight: Most of the enterprise assets are low risk, although a high amount are considered a medium risk, and most monetary value is tied up in medium risk assets. This gives an overview of effective management of medium and high risk assets.
 
 b. Data Point: How can risk be mitigated by asset type?  
 i. Insight: High risk assets such as medical equipment and surveillance equipment each have over 1,000 assets that are overdue on calibration. To save costs and reduce risk, it is important this number must decrease to benefit the company. It was also determined there was a massive spike of uncalibrated IT equipment, which is worth diving deeper into how this problem arose and how it can be fixed.  
