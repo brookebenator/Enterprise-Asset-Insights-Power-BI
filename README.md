@@ -37,7 +37,7 @@ This Power BI dashboard is a fully-functional, mock version of a real dashboard 
 ---
 
 **Dashboard Overview**  
-**1. Summary Page:** The summary page gives quick, high-level information about all of the enterprise's assets. The visuals show broad information such as total assets and total monetary value, where they are located, and what are the different types.
+**1. Summary:** The summary page gives quick, high-level information about all of the enterprise's assets. The visuals show broad information such as total assets and total monetary value, where they are located, and what are the different types.
 
 **2. Risk Review:** Housing enterprise assets comes with carrying risk. This page highlights information about asset risk and offers insights about how to protect our assets and business.
 	
@@ -47,7 +47,7 @@ This Power BI dashboard is a fully-functional, mock version of a real dashboard 
 ---
 	
 **Business Insights & Real-Life Application**  
-1. **Summary Page**:  
+1. **Summary**:  
 	
 **● Data Point: How can we forecast an accurate budget to align with asset increases?**  
 **Insight**: Asset values typically increase sharply every 5 years. This provides a key insight into how a budget can be created to forecast increasing expenditures. 
