@@ -5,7 +5,7 @@ Note: Please note that the data presented in this report has been AI-generated a
 
 This Power BI dashboard is a fully-functional, mock version of a real dashboard with similar elements I created for the Government Compliance team, where I manage a database of enterprise government-owned assets that merges together 3 different software environments. These visualizations provide insights into necessary information such as best historical data, asset usage, and asset trends.
 
-![Summary Page](https://github.com/brookebenator/Enterprise-Asset-Insights-Power-BI/blob/main/Summary%20Page.jpeg)
+![Summary](https://github.com/brookebenator/Enterprise-Asset-Insights-Power-BI/blob/main/Summary.png)
 ---
 
 **Tools Used**  
