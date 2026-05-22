@@ -34,6 +34,8 @@ This Power BI dashboard is a fully-functional, mock version of a real dashboard 
 -Excel was used primarily for data exploration, pattern identification, and understanding key issues to be resolved  
 -Using both AI and domain knowledge, Alteryx was utilized to integrate the three different data sets from each software environment together. Alteryx was also used to fix incorrect records, change null values, etc
 
+![Alteryx Data Cleaning](https://github.com/brookebenator/Enterprise-Asset-Insights-Power-BI/blob/main/Alteryx%20Data%20Cleaning.png)
+
 ---
 
 **Dashboard Overview**  
